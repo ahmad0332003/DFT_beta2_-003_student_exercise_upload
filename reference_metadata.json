@@ -1,0 +1,14 @@
+{
+  "high_scale_index": 0,
+  "maximum_absolute_voltage_per_scale": [
+    0.708389058,
+    0.151797662
+  ],
+  "number_of_shots": 999,
+  "number_of_samples": 1250,
+  "sample_interval_ns": 0.01,
+  "paired_peak_count": 5,
+  "fit_slope_thz_per_ns": 1.4183243782831059,
+  "fit_intercept_thz": 184.18217286915967,
+  "fit_r2": 0.9978308520054403
+}
